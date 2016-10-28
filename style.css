@@ -2,10 +2,30 @@ body {
 	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
 	width: 960px;
-	background-color: #777;
+	background-color: gray;
 }
 
 header {
 	width: 960px;
-	background-color: #ebebeb;
+	background-color: orange;
+	text-align: center;
+
+}
+
+nav {
+	width: 960px;
+	background-color: orange;
+	text-align: center;
+}
+
+section {
+	width: 495px;
+	background-color: orange;
+	text-align: center;
+}
+
+article {
+	width: 450px;
+	background-color: lightblue;
+	
 }
